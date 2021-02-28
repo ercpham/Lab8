@@ -1,4 +1,6 @@
 # Lab8
 
-Cypress and Jest weren't working too well together
-so we've separated the two out in different parts
+Name: Eric Pham
+PID: A15894466
+
+[![Cypress.io](https://img.shields.io/badge/tested%20with-Cypress-04C38E.svg)](https://www.cypress.io/)
